@@ -7,7 +7,7 @@ Cloning this repo should bring down both the relevant notebooks and data files f
 
 We have two notebooks that do front to back analysis.  
 
-#### `w207_final_project_ipynb`
+#### `w207_final_project.ipynb`
 This notebook loads previously optimized models from `best_models.pkl` so that the parameter search process at end of notebook is not required for each load -- it takes roughly 10 minutes.
 
 Use `conda env create -f environment.yml` and then `conda activate base` for appropriate dependencies.
