@@ -4,7 +4,7 @@
 
 
 Cloning this repo should bring down both the relevant notebooks and data files for work on the Ames Housing Price project on Kaggle.
-.
+
 We have two notebooks that do front to back analysis.  
 
 #### `w207_final_project_ipynb`
